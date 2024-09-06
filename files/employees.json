@@ -1,0 +1,30 @@
+{
+    "ilya": {
+        "position": "Менеджер",
+        "salary": 55000,
+        "start_date": "25.10.2012",
+        "name": "Іл'я",
+        "password": "1234567a"
+    },
+    "maria": {
+        "position": "Ветеренар",
+        "salary": 20000,
+        "start_date": "03.12.2014",
+        "name": "Марія",
+        "password": "1234567b"
+    },
+    "dima": {
+        "position": "Менеджер з продаж",
+        "salary": 30000,
+        "start_date": "03.12.2016",
+        "name": "Дмитро",
+        "password": "1234567f"
+    },
+    "vlad": {
+        "position": "Директор",
+        "salary": "61000",
+        "start_date": "06.09.2024",
+        "name": "Владислав",
+        "password": "1234567m"
+    }
+}

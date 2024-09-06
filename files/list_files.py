@@ -1,0 +1,6 @@
+ANIMALS = "files/animals.json"
+ANIMALS_CURED = "files/animals_cured.json"
+REVIEWS = "files/reviews.json"
+EMPLOYEES = "files/employees.json"
+LOG = "files/log.json"
+HELP = "files/help.txt"
