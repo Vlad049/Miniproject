@@ -1,4 +1,4 @@
-def add_animal(animals: list) -> list:
+def add_animal(animals: list) -> list: #додаємо тварину
     animal = input("Додайте нову тваринку, якій необхідне лікування: ")
 
     if animal in animals:
